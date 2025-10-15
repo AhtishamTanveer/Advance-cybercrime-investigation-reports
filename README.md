@@ -1,2 +1,2 @@
 # ICDFA-Training-Reports
-Reports of all tasks of my training on Advance cybercrime investigations.
+A collection of detailed reports from my Advanced Cybercrime Investigations training, covering all assigned tasks and practical exercises.
