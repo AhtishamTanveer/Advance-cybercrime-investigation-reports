@@ -1,5 +1,9 @@
 # Advanced Cybercrime Investigation Reports
-<img width="395" height="127" alt="images" src="https://github.com/user-attachments/assets/435f0e43-a37d-47c6-af29-05827148f5fa" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/435f0e43-a37d-47c6-af29-05827148f5fa" 
+       alt="images" width="395" height="127">
+</div>
+
 
 This repository contains my PDF reports for all tasks completed during my **Advanced Cybercrime Investigations** training program.
 
